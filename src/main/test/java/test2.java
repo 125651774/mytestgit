@@ -16,5 +16,5 @@
  * @since 1.0.0
  */
 public class test2 {
-    String a = "测试11111111111111";
+    String a = "测试";
 }
