@@ -17,7 +17,7 @@
  */
 public class test {
     public static void  main(String[] args){
-        System.out.println("-----------print1111111111-----------值="+ +","+"当前类:test.()");
+        System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
