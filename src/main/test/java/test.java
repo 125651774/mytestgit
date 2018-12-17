@@ -17,10 +17,11 @@
  */
 public class test {
     public static void  main(String[] args){
-        System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
-        System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
-        System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
-        System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
+        String a = "测试";
+        System.out.println("-----------print-----------值="+a+","+"当前类:test.()");
+        System.out.println("-----------print-----------值="+a +","+"当前类:test.()");
+        System.out.println("-----------print-----------值="+a +","+"当前类:test.()");
+        System.out.println("-----------print-----------值="+a +","+"当前类:test.()");
         System.out.println("测试git");
     }
 }
