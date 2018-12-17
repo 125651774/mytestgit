@@ -21,5 +21,6 @@ public class test {
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
         System.out.println("-----------print-----------值="+ +","+"当前类:test.()");
+        System.out.println("测试git");
     }
 }
